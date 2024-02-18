@@ -41,7 +41,10 @@
     "react-native-screens": "~3.29.0",
     "react-native-svg": "14.1.0",
     "react-native-toast-message": "^2.1.6",
-    "styled-components": "^5.3.11"
+    "styled-components": "^5.3.11",
+    "expo-camera": "~14.0.4",
+    "expo-media-library": "~15.9.1",
+    "expo-barcode-scanner": "~12.9.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

@@ -1,4 +1,4 @@
-export const BASE_URI = "http://192.168.107.42:8000";
+export const BASE_URI = "http://192.168.164.80:8000";
 
 export const REDIRECT_URL_SCHEME = "io.frappe.changemakers";
 
